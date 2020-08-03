@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendApp</string>
+    <string name="opc1">Agregar Evento</string>
+    <string name="opc2">Acerca de</string>
+    <string name="opc3">Eventos</string>
+    <string name="about">Juan Carlos Aragon Cruz
+    email:aragon.c08@gmail.com
+    tel:4641016554</string>
+</resources>
